@@ -1,0 +1,14 @@
+C:\Users\joses\Desktop\AppNumeros\AppNumeros\AppNumeros\bin\Release\netstandard2.0\AppNumeros.deps.json
+C:\Users\joses\Desktop\AppNumeros\AppNumeros\AppNumeros\bin\Release\netstandard2.0\AppNumeros.dll
+C:\Users\joses\Desktop\AppNumeros\AppNumeros\AppNumeros\bin\Release\netstandard2.0\ref\AppNumeros.dll
+C:\Users\joses\Desktop\AppNumeros\AppNumeros\AppNumeros\bin\Release\netstandard2.0\AppNumeros.pdb
+C:\Users\joses\Desktop\AppNumeros\AppNumeros\AppNumeros\obj\Release\netstandard2.0\AppNumeros.csprojAssemblyReference.cache
+C:\Users\joses\Desktop\AppNumeros\AppNumeros\AppNumeros\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\joses\Desktop\AppNumeros\AppNumeros\AppNumeros\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\joses\Desktop\AppNumeros\AppNumeros\AppNumeros\obj\Release\netstandard2.0\AppNumeros.csproj.CoreCompileInputs.cache
+C:\Users\joses\Desktop\AppNumeros\AppNumeros\AppNumeros\obj\Release\netstandard2.0\AppNumeros.AssemblyInfoInputs.cache
+C:\Users\joses\Desktop\AppNumeros\AppNumeros\AppNumeros\obj\Release\netstandard2.0\AppNumeros.AssemblyInfo.cs
+C:\Users\joses\Desktop\AppNumeros\AppNumeros\AppNumeros\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\joses\Desktop\AppNumeros\AppNumeros\AppNumeros\obj\Release\netstandard2.0\AppNumeros.dll
+C:\Users\joses\Desktop\AppNumeros\AppNumeros\AppNumeros\obj\Release\netstandard2.0\ref\AppNumeros.dll
+C:\Users\joses\Desktop\AppNumeros\AppNumeros\AppNumeros\obj\Release\netstandard2.0\AppNumeros.pdb
